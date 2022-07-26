@@ -75,7 +75,9 @@ header{
     float: right;
     position: relative;
     top: -340px;
-    height: 393px;
+    height: 365px;
+    border: solid white;
+    border-radius: 25%;
 }
 .btn-intro{
     background-color: #254A99;
